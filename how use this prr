@@ -1,0 +1,11 @@
+# Sistema de Validação de Processo Seletivo
+
+Este é um sistema simples em Python para validar candidatos em um processo seletivo, baseado em critérios como idade e experiência.
+
+## Como Usar
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/<seu-username>/<nome-do-repositório>.git
+   cd <nome-do-repositório>
